@@ -1,0 +1,8 @@
+= GitHub Pages Portfolio Sites for Non-coding Journalists
+
+:hp-tags: Digital publishing
+
+Creating personal or portfolio websites shouldn't really be that hard. And for people who work with technology daily, it isn't, because there is a proliferation of tools that make it easy for developers to create and launch sites. After all, there's not much to these: A list of clips, an description of the person, a resume or CV, and maybe a blog. Pick your favorite static site generator (jekyll, hexo, hugo, or pelican are all fine, depending on your language of choice) and choose a place to host the site (GitHub Pages or Amazon S3 are good free options).
+
+But these tools generally require a good deal of implicit technical knowledge that can be daunting for people who don't already use the command line or git in their daily work. So they'll often turn to easier options like Wordpress, Weebly, or Wix. All of these require no technical experience to get started, and provide lots of themes that seem to work well out of the box.
+
