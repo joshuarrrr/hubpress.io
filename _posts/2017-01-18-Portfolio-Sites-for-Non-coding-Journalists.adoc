@@ -1,8 +1,12 @@
-= GitHub Pages Portfolio Sites for Non-coding Journalists
+= Portfolio Sites for Non-coding Journalists
 
 :hp-tags: Digital publishing
 
-Creating personal or portfolio websites shouldn't really be that hard. And for people who work with technology daily, it isn't, because there is a proliferation of tools that make it easy for developers to create and launch sites. After all, there's not much to these: A list of clips, an description of the person, a resume or CV, and maybe a blog. Pick your favorite static site generator (jekyll, hexo, hugo, or pelican are all fine, depending on your language of choice) and choose a place to host the site (GitHub Pages or Amazon S3 are good free options).
+Creating personal or portfolio websites shouldn't really be that hard. And for people who work with web technology daily, it isn't, because we're surrounded by a proliferation of tools that make it easy for developers to create and launch simple sites. After all, most personal sites are not that complex: A list of clips, a brief description of the person, a resume or CV, and maybe a blog. Just pick your favorite static site generator (jekyll [js], hexo [js], hugo [go], or pelican [python] are all fine, depending on your language of choice) and choose a place to host the site (GitHub Pages or Amazon S3 are good free options), and you can have your own digital space up and running in no time.
 
-But these tools generally require a good deal of implicit technical knowledge that can be daunting for people who don't already use the command line or git in their daily work. So they'll often turn to easier options like Wordpress, Weebly, or Wix. All of these require no technical experience to get started, and provide lots of themes that seem to work well out of the box.
+But as good as these tools, are, they generally assume a good deal of implicit technical knowledge that can seem mysterious and daunting for anyone who doesn't already do development work. So journalists, designers, and academics often turn to easier options like Wordpress, Squarespace, or Weebly, instead. All of these require no technical experience to get started, and provide lots of themes that seem to work well out of the box.
+
+The problem is that these are wildly bloated for the purpose of simply updating and maintaining a couple of web pages. While it's possible to set up a very simple personal site, these products are much more focused on more complicated corporate sites, e-commerce sites, or high-volume blogging. Further bloat comes from installing numerous plugins and themes, which also must support many possible use cases. The result is often a slow, expensive site, which requires constant updates.
+
+Some of the digital journalists I highly respect (Tyler Fisher and Lena Groeger) have tried to bridge the gap by writing detailed tutorials about setting up personal sites using GitHub Pages.
 
