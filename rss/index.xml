@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Digital Publishing for Digital Humans]]></title><description><![CDATA[Thoughts about how people in digital humanities/history/journalism can better collaborate and share knowledge]]></description><link>https://joshuarrrr.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 18 Jan 2017 21:41:23 GMT</lastBuildDate><atom:link href="https://joshuarrrr.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Portfolio Sites for Non-coding Journalists]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Digital Publishing for Digital Humans]]></title><description><![CDATA[Thoughts about how people in digital humanities/history/journalism can better collaborate and share knowledge]]></description><link>https://joshuarrrr.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 19 Jan 2017 16:01:13 GMT</lastBuildDate><atom:link href="https://joshuarrrr.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Portfolio Sites for Non-coding Journalists]]></title><description><![CDATA[<div class="paragraph">
 <p>Creating personal or portfolio websites shouldn&#8217;t really be that hard. And for people who work with web technology daily, it isn&#8217;t, because we&#8217;re surrounded by a proliferation of tools that make it easy for developers to create and launch simple sites. After all, most personal sites are not that complex: A list of clips, a brief description of the person, a resume or CV, and maybe a blog. Just pick your favorite static site generator (jekyll [js], hexo [js], hugo [go], or pelican [python] are all fine, depending on your language of choice) and choose a place to host the site (GitHub Pages or Amazon S3 are good free options), and you can have your own digital space up and running in no time.</p>
 </div>
 <div class="paragraph">
@@ -8,5 +8,36 @@
 <p>The problem is that these are wildly bloated for the purpose of simply updating and maintaining a couple of web pages. While it&#8217;s possible to set up a very simple personal site, these products are much more focused on more complicated corporate sites, e-commerce sites, or high-volume blogging. Further bloat comes from installing numerous plugins and themes, which also must support many possible use cases. The result is often a slow, expensive site, which requires constant updates.</p>
 </div>
 <div class="paragraph">
-<p>Some of the digital journalists I highly respect (Tyler Fisher and Lena Groeger) have tried to bridge the gap by writing detailed tutorials about setting up personal sites using GitHub Pages.</p>
+<p>Some of the digital journalists that I highly respect and look up to (<a href="https://medium.com/learning-journalism-tech/github-makes-portfolio-sites-for-journalists-cheap-and-kinda-easy-bd53d882185f#.a8wzcafdc">Tyler Fisher</a> and <a href="http://lenagroeger.s3.amazonaws.com/makeawebsite/makeawebsite.html">Lena Groeger</a>) have tried to bridge the gap by writing detailed tutorials about setting up personal sites using GitHub Pages. But I think it&#8217;s important to acknowledge and separate the two very different goals that may go into building a personal site. The first is the practical goal of just getting a site up and the ability to easily edit and change its content. The second goal, with more long-term benefits, is to learn: about digital publishing, web technologies, version control, etc. Most of these tutorials assume an audience that is interested in both goals. But in reality, launching a static site, especially for a novice, puts the focus much more heavily on the learning objective.</p>
+</div>
+<div class="paragraph">
+<p>The list of topics to be learned by the unitiated is substantial:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Plain text files and plain text editor</p>
+</li>
+<li>
+<p>Bash and the command line</p>
+</li>
+<li>
+<p>Markdown syntax</p>
+</li>
+<li>
+<p>Git, GitHub, how they&#8217;re different and the concept of version control</p>
+</li>
+<li>
+<p>Plain text config files</p>
+</li>
+<li>
+<p>HTML basics</p>
+</li>
+<li>
+<p>CSS syntax</p>
+</li>
+<li>
+<p>Manual image editing and management</p>
+</li>
+</ul>
 </div>]]></description><link>https://joshuarrrr.github.io/hubpress.io/2017/01/18/Portfolio-Sites-for-Non-coding-Journalists.html</link><guid isPermaLink="true">https://joshuarrrr.github.io/hubpress.io/2017/01/18/Portfolio-Sites-for-Non-coding-Journalists.html</guid><category><![CDATA[Digital publishing]]></category><pubDate>Wed, 18 Jan 2017 00:00:00 GMT</pubDate></item></channel></rss>
