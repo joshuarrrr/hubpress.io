@@ -8,5 +8,16 @@ But as good as these tools, are, they generally assume a good deal of implicit t
 
 The problem is that these are wildly bloated for the purpose of simply updating and maintaining a couple of web pages. While it's possible to set up a very simple personal site, these products are much more focused on more complicated corporate sites, e-commerce sites, or high-volume blogging. Further bloat comes from installing numerous plugins and themes, which also must support many possible use cases. The result is often a slow, expensive site, which requires constant updates.
 
-Some of the digital journalists I highly respect (Tyler Fisher and Lena Groeger) have tried to bridge the gap by writing detailed tutorials about setting up personal sites using GitHub Pages.
+Some of the digital journalists that I highly respect and look up to (https://medium.com/learning-journalism-tech/github-makes-portfolio-sites-for-journalists-cheap-and-kinda-easy-bd53d882185f#.a8wzcafdc[Tyler Fisher] and http://lenagroeger.s3.amazonaws.com/makeawebsite/makeawebsite.html[Lena Groeger]) have tried to bridge the gap by writing detailed tutorials about setting up personal sites using GitHub Pages. But I think it's important to acknowledge and separate the two very different goals that may go into building a personal site. The first is the practical goal of just getting a site up and the ability to easily edit and change its content. The second goal, with more long-term benefits, is to learn: about digital publishing, web technologies, version control, etc. Most of these tutorials assume an audience that is interested in both goals. But in reality, launching a static site, especially for a novice, puts the focus much more heavily on the learning objective.
+
+The list of topics to be learned by the unitiated is substantial:
+
+- Plain text files and plain text editor
+- Bash and the command line
+- Markdown syntax
+- Git, GitHub, how they're different and the concept of version control
+- Plain text config files
+- HTML basics
+- CSS syntax
+- Manual image editing and management
 
