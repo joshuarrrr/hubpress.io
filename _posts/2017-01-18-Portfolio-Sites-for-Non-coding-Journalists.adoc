@@ -12,15 +12,15 @@ Some of the digital journalists that I highly respect and look up to (https://me
 
 The list of topics to be learned by the unitiated is substantial:
 
-- Plain text files and plain text editor
-- Bash and the command line
-- Markdown syntax
-- Git, GitHub, how they're different, and the concept of version control
-- Plain text config files
-- HTML basics
-- CSS syntax
-- Manual image editing and management
-- Jekyll and Ruby
+* Plain text files and plain text editor
+* Bash and the command line
+* Markdown syntax
+* Git, GitHub, how they're different, and the concept of version control
+* Plain text config files
+* HTML basics
+* CSS syntax
+* Manual image editing and management
+* Jekyll and Ruby
 
 This semester I'm auditing http://fredgibbs.net/courses/digital-methods/index.html[Introduction to Digital Humanities], and over the last two weeks of classes, I saw my classmates tackle all of these challenges. There was a good deal of confusion, but also a lot of learning. As frustrating as it may have been, we still managed to cover a lot of ground in the class, much faster than when I was learning all of this stuff on my own a few years ago. And my classmates will soon have an array of tools at their disposal that will come in handy for other more complicated projects.
 
